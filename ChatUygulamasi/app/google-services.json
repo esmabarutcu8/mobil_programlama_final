@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88371859471",
+    "firebase_url": "https://muhendis-431d5-default-rtdb.firebaseio.com",
+    "project_id": "muhendis-431d5",
+    "storage_bucket": "muhendis-431d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88371859471:android:fedba1228bf75eda15537a",
+        "android_client_info": {
+          "package_name": "com.example.chatuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88371859471-dvibomitalk3l0ba54ulpp98m1vktpq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatuygulamasi",
+            "certificate_hash": "bbc3b6883ab66877a64b196daf6f93d292624559"
+          }
+        },
+        {
+          "client_id": "88371859471-4kr4fag475p9o43edn8ldto60msefs7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtJwDHPzx8tjNB7fAo6GSmEuMaS3PZI88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88371859471-4kr4fag475p9o43edn8ldto60msefs7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
